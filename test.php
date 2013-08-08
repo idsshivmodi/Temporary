@@ -1,1 +1,5 @@
-Testing
+<?php
+
+echo phpinfo(); die;
+
+?>
