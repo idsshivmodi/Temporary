@@ -2,6 +2,6 @@
 
 echo phpinfo(); die;
 echo "Test"; die;
-echo "Test Test"; die;
+echo "More Test"; die;
 
 ?>
