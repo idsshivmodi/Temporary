@@ -1,1 +1,5 @@
-Testing
+<?php
+
+echo "Testing"; die;
+
+?>
